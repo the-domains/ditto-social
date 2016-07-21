@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ditto Social]]></title>
         <description><![CDATA[Ditto Social]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ditto-social/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jul 2016 21:45:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jul 2016 21:46:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ditto-social/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>74% of clients will give their real estate agent a referral if they stay in touch. How do you stay in touch with your clients?</p>]]></description>
+            <link>https://thegrid.ai/ditto-social/74-of-clients-will-give-their-real-estate-agent-a-referral/index.html</link>
+            <guid isPermaLink="false">2a94c7e7-cba4-4fdb-bcf8-05fcedffae64</guid>
+            <pubDate>Thu, 21 Jul 2016 21:46:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e4c71ac-07ca-4b93-840f-a560f022c440.png">]]></description>
-            <link>undefined0569fdf6-43da-48b8-8522-446829030b2d/index.html</link>
+            <link>https://thegrid.ai/ditto-social/0569fdf6-43da-48b8-8522-446829030b2d/index.html</link>
             <guid isPermaLink="false">0569fdf6-43da-48b8-8522-446829030b2d</guid>
             <pubDate>Thu, 21 Jul 2016 21:45:15 GMT</pubDate>
         </item>
