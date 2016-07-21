@@ -1,6 +1,6 @@
 name: Ditto Social
 favicon: null
-layout_spectrum: 0.99598
+layout_spectrum: 0
 typography_spectrum: 0.41896
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#e14e42'
     - '#6aa8db'
     - '#000000'
-  brandStrength: 0.6184336659498513
-  lightness: 0.8125
-  saturation: 0.8125
-  rhythmicContrast: 0.75
+  brandStrength: 1
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 1
 purpose: []
